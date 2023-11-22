@@ -1,4 +1,5 @@
 # Bash-C
-Código comentado de un Bash simple en C.
+Simple Bash code in C language
 
-Tiene gestión de errores, tratamiento de comandos enlazados y redirecciones del tipo '>'
+It has error handling, linked commands handling and '>' redirections.
+The comments are in spanish, I'll publish another version with english comments.
